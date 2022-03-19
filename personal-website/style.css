@@ -15,5 +15,27 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 60%;
+}
+.top-header{
+    border: 1px solid red;
+    background-image: url("images/header-bg.png");
+}
+section{
+    height: 500px;
+}
+.bio-header{
+    border: 1px solid red;
+    background-image: url("images/biography-bg.png");
+}
+.third-width{
+    width: 27%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.footer{
+    border: 1px solid red;
+    background-image: url("images/footer-bg.png");
 }
